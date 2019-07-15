@@ -20,11 +20,10 @@ Your plugin in **../target/wipplugin-1.0.0-SNAPSHOT.jar**
 
 ## Usage
 1. Open Your repo
-2. Click **Edit**
-3. Click on **Repository settings**.
-4. Click on **Merge checks**
-5. Switch to "Enabled" status
-6. Enjoy
+2. Click on **Repository settings**.
+3. Click on **Merge checks**
+4. Switch to "Enabled" status
+5. Enjoy
 
 ## Credentials
 Author: **bearchik@gmail.com**
