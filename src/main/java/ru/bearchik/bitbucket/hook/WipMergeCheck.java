@@ -10,8 +10,6 @@ import javax.annotation.Nonnull;
 
 public class WipMergeCheck implements RepositoryMergeCheck
 {
-    
-
     @Nonnull
     @Override
     public RepositoryHookResult preUpdate(@Nonnull PreRepositoryHookContext preRepositoryHookContext, @Nonnull PullRequestMergeHookRequest pullRequestMergeHookRequest) {
