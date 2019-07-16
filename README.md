@@ -2,7 +2,7 @@
 The plugin allows you use WIP status in pull request.
 Plugin uses last Atlasian SDK atlassian-plugin-sdk-8.0.16 and has not problem with compatible in Atlassian Bitbucket Server v6.3.2
 
-I get idea and some code from: https://github.com/leominov/bitbucket-wip-plugin/
+I took idea and some code from: https://github.com/leominov/bitbucket-wip-plugin/
 
 ## Compile
 1. Download and install Java JDK 1.8 from Oracle site: https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
