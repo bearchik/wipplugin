@@ -1,6 +1,6 @@
 # Plugin wipplugin for Atlassian Bitbucket Server
 The plugin allows you use WIP status in pull request.
-Plugin uses last Atlasian SDK atlassian-plugin-sdk-8.0.16 and has not problem with compatible in Atlassian Bitbucket Server v6.3.2
+Plugin uses last Atlasian SDK atlassian-plugin-sdk-8.0.16 and has not problem with compatible in Atlassian Bitbucket Server v6.3.2 - v6.5.1
 
 I took idea and some code from: https://github.com/leominov/bitbucket-wip-plugin/
 
